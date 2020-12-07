@@ -40,11 +40,11 @@ Additionaly, script is looking for two files within its directory:
 ### Execution
 Execute with no arguments:
 ``` sh
-./ios_telnet_conf
+./ios_telnet_conf.py
 or
-python ios_telnet_conf
+python ios_telnet_conf.py
 or
-python3 ios_telnet_conf
+python3 ios_telnet_conf.py
 ```
 After executing, you have to provide, interactively, your telnet and privileged mode passwords.
 Script returns output of terminal.
