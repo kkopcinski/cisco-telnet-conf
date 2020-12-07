@@ -5,7 +5,7 @@ Automated configuration of Cisco IOS devices via Telnet.
 Simple script written for my usage, to make easier preparing new GNS3 labs.
 
 ## Usage
-##### Script is using telnetlib library and f-strings (use Python >=3.6) 
+##### Script is using telnetlib library, getpass library and f-strings (use Python >=3.6) 
 ### Cisco IOS configuration
 Script assumes, that Cisco IOS are configured as followed:
  - Devices have configured **enable | secret** password to privileged mode access:
